@@ -12,7 +12,7 @@ import time
 import os
 
 __title__ = "OnVista"
-__version__ = "1.0.0"
+__version__ = "0.1.0"
 __triggers__ = "stock "
 __authors__ = "Denis Gerber"
 
